@@ -3,6 +3,8 @@
 ```bash
 Team :
 Indi Alya Putri indy02@mhs.pelitabangsa.ac.id
+
+indy02@mhs.pelitabangsa.ac.id
 Rima Puji Lestari rimapl.312110517@mhs.pelitabangsa.ac.id 
 Kevin Suyadi Ritonga kevinsuyadi@mhs.pelitabangsa.ac.id
 ```
